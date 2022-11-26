@@ -1,7 +1,7 @@
 Devops
 Git
 git add
-git commit
+git commit -m " "
 git status
 git diff
 git -p
