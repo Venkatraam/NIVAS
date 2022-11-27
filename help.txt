@@ -2,4 +2,8 @@ commit2
 
 MY GitHub
 
+git commands
+git stash
+git stash list
+git stash pop
 
