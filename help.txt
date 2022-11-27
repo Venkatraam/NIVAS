@@ -2,4 +2,6 @@ commit2
 
 MY GitHub
 
+My changes for conflict
+
 
